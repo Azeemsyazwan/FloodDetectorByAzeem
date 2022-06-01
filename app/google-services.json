@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "630748692895",
+    "firebase_url": "https://flooddetectorlast.firebaseio.com",
+    "project_id": "flooddetectorlast",
+    "storage_bucket": "flooddetectorlast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630748692895:android:c7e11377898db0bbfbfdaa",
+        "android_client_info": {
+          "package_name": "com.example.flooddetectorlast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630748692895-1f3njoeqmhlbcqf3m96rmelbhmehoo1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flooddetectorlast",
+            "certificate_hash": "44d4c7c9b2532a8be42c992570c12db1bc0c6191"
+          }
+        },
+        {
+          "client_id": "630748692895-a9gpqrcm8m37f3den8mn5nkuh2e30d8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRHVV3rZYBmGl7lzuv1W5AYBf3QAyQ7Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630748692895-a9gpqrcm8m37f3den8mn5nkuh2e30d8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

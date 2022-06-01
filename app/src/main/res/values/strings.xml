@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FloodDetectorLast</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_api">AIzaSyBzp44mLIEPTBvOs7L7HmGhATI40a3PQE0</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
